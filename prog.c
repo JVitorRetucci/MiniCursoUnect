@@ -5,8 +5,12 @@ int main(){
 
     printf("Olá mundo!");
 
-    if (num =! 0){
+    if (num != 0){
         printf("Entrou aqui");
+    }
+
+    for(){
+        num++;
     }
     
     return 0;
